@@ -1,0 +1,5 @@
+{
+  "name": "报销费用分摊助手",
+  "description": "一个专业的季度性费用分摊工具，能够自动计算并在修改单项价格时保持总额不变。",
+  "requestFramePermissions": []
+}
